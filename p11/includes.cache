@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\betyt\\OneDrive\\Documentos\\Arduino\\p11\\sketch\\sketch_nov19a.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
