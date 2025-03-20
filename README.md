@@ -10,6 +10,7 @@ Después abrimos las preferencias de arduino para seleccionar la carpeta en la q
       Ingresamos el código y verificamos, y luego creamos nuestro proyecto en Proteus. 
     ![image](https://github.com/user-attachments/assets/0878cd9b-ef60-4e6a-ab6d-3b9348c03c24)
     ![image](https://github.com/user-attachments/assets/e21dcae0-ccbc-4282-a3f0-d31d0d0e9945)
+    
 Creamos nuestro circuito e ingresamos el archivo .hex del código fuente de arduino. 
     ![image](https://github.com/user-attachments/assets/eb35f193-6a1a-4e2d-8664-eb829d1a95c1)
     ![image](https://github.com/user-attachments/assets/ed3f96ff-f403-499a-9d14-68729a6633b2)
