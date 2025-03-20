@@ -8,6 +8,7 @@ Primero creamos el circuito y nuestra tabla de valores
 Después abrimos las preferencias de arduino para seleccionar la carpeta en la que se guardará el código de la práctica. 
     ![image](https://github.com/user-attachments/assets/d0c38cc6-ad5f-4d51-a2ca-4bb107b7346d)
       Ingresamos el código y verificamos, y luego creamos nuestro proyecto en Proteus. 
+      .
     ![image](https://github.com/user-attachments/assets/0878cd9b-ef60-4e6a-ab6d-3b9348c03c24)
     ![image](https://github.com/user-attachments/assets/e21dcae0-ccbc-4282-a3f0-d31d0d0e9945)
     
